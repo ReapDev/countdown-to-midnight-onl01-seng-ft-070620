@@ -1,4 +1,5 @@
 def midnight_countdown
+    countdown = 20
     while countdown > 0 
     puts("#{countdown} SECOND(S)!")
     countdown -= 1 
